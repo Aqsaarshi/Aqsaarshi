@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Aqsaarshi
-- 👀 I’m interested in codding ...
-- 🌱 I’m currently learning Typescript and other language...
-- 💞️ I’m looking to collaborate on innovative projects thats push the boundries of whats's possible and have a positive impact on society ...
-- 📫 How to reach me Yt channel aqsaarshi...or connect with me on linkdin.feel free to drop me a message to discuss me a message to discuss potential collaborations or just to say hello !
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...i am writter , painter and singer also or experimenting with new things ....
-
-<!---
-Aqsaarshi/Aqsaarshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->   
+I'm @Aqsaarshi. 
+Hello! I would like to co-descend... 
+I'm learning Typescript and another language right now.
+I want to work with you on creative projects that push the envelope of what's feasible and benefit society in general.
+How to get in touch with me Linkdin or the YT channel, Aqsaarshi, to get in touch with me.
+Please do not hesitate to send me a message to discuss possible partnerships or simply to say hey!.
+The pronouns she/her
