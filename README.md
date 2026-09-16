@@ -98,13 +98,13 @@ I'm currently learning and building with **TypeScript** and **JavaScript**, whil
 
 <div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/Aqsaarshi/Aqsaarshi/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aqsaarshi/Aqsaarshi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aqsaarshi/Aqsaarshi/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aqsaarshi/Aqsaarshi/output/github-snake.svg">
+</picture>
 
 </div>
-
----
 
 ## 🌱 Currently Learning
 
