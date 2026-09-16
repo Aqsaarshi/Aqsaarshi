@@ -53,19 +53,21 @@ I'm currently learning and building with **TypeScript** and **JavaScript**, whil
 <div align="center">
 
 <a href="https://github.com/Aqsaarshi/ATM-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=ATM-project&theme=transparent&title_color=9B5C8F&icon_color=9B5C8F&border_color=DCC9DC" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=ATM-project&theme=transparent&hide_border=true" width="400"/>
 </a>
 
 <a href="https://github.com/Aqsaarshi/Todos-list">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=Todos-list&theme=transparent&title_color=9B5C8F&icon_color=9B5C8F&border_color=DCC9DC" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=Todos-list&theme=transparent&hide_border=true" width="400"/>
 </a>
 
+<br>
+
 <a href="https://github.com/Aqsaarshi/CLI-Number-Guessing-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=CLI-Number-Guessing-Game&theme=transparent&title_color=9B5C8F&icon_color=9B5C8F&border_color=DCC9DC" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=CLI-Number-Guessing-Game&theme=transparent&hide_border=true" width="400"/>
 </a>
 
 <a href="https://github.com/Aqsaarshi/simple-calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=simple-calculator&theme=transparent&title_color=9B5C8F&icon_color=9B5C8F&border_color=DCC9DC" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=simple-calculator&theme=transparent&hide_border=true" width="400"/>
 </a>
 
 </div>
@@ -76,9 +78,9 @@ I'm currently learning and building with **TypeScript** and **JavaScript**, whil
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aqsaarshi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9B5C8F&icon_color=9B5C8F&text_color=555555&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aqsaarshi&show_icons=true&theme=transparent&hide_border=true" width="400"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsaarshi&layout=compact&hide_border=true&title_color=9B5C8F&text_color=555555&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsaarshi&layout=compact&theme=transparent&hide_border=true" width="400"/>
 
 </div>
 
