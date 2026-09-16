@@ -53,34 +53,41 @@ I'm currently learning and building with **TypeScript** and **JavaScript**, whil
 <div align="center">
 
 <a href="https://github.com/Aqsaarshi/ATM-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=ATM-project&theme=transparent&hide_border=true" width="400"/>
+  💳 <strong>ATM Project</strong>
 </a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
 
 <a href="https://github.com/Aqsaarshi/Todos-list">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=Todos-list&theme=transparent&hide_border=true" width="400"/>
+  ✅ <strong>Todos List</strong>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/Aqsaarshi/CLI-Number-Guessing-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=CLI-Number-Guessing-Game&theme=transparent&hide_border=true" width="400"/>
+  🎮 <strong>CLI Number Guessing Game</strong>
 </a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
 
 <a href="https://github.com/Aqsaarshi/simple-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aqsaarshi&repo=simple-calculator&theme=transparent&hide_border=true" width="400"/>
+  🧮 <strong>Simple Calculator</strong>
 </a>
 
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aqsaarshi&show_icons=true&theme=transparent&hide_border=true" width="400"/>
+💻 **Repositories**  
+🚀 **Projects & Contributions**  
+🌱 **Currently Learning TypeScript & JavaScript**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsaarshi&layout=compact&theme=transparent&hide_border=true" width="400"/>
+<br><br>
+
+<a href="https://github.com/Aqsaarshi">
+  <strong>→ View my GitHub profile & contribution activity</strong>
+</a>
 
 </div>
 
